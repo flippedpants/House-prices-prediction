@@ -1,2 +1,3 @@
 .ipynb_checkpoints/
-predict_house_prices.py
+.predict_house_prices.py
+.gitignore
